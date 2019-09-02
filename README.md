@@ -16,7 +16,7 @@ to maintain this project, but I will update it from time to time.
 You can install this project directly from Github via:
 
 ```bash
-$ pip3.7 install git+https://github.com/kelmore5/python-math-utilities.git
+$ pip3.7 install git+https://github.com/kelmore5/python-array-utilities.git
 ```
 
 ### Dependencies
